@@ -8,26 +8,6 @@ Certainly! Here's an extended README.md for your ToDo list app test, incorporati
 
 The task is to build a simple ToDo list app using Flutter. The app should allow users to add tasks, mark them as completed, and delete tasks. You are required to implement the core functionality and create a user-friendly interface.
 
-## Instructions
-
-### Project Setup
-
-1. Fork this repository to your GitHub account.
-
-2. Clone the forked repository to your local development environment.
-
-3. Set up a Flutter project within the repository folder using the following command:
-
-   ```
-   flutter create todo_list_app
-   ```
-
-4. Navigate to the `todo_list_app` directory:
-
-   ```
-   cd todo_list_app
-   ```
-
 ### App Requirements
 
 1. The app should have a list view that displays all the tasks.
@@ -46,6 +26,8 @@ The task is to build a simple ToDo list app using Flutter. The app should allow 
 
 8. Store tasks locally in the Hive database. Tasks should persist between app sessions.
 
+9. Add/Edit Todo and Mark as done.
+
 ### User Interface and User Experience
 
 - Pay attention to the user interface design and user experience. The app should be intuitive and visually appealing.
@@ -59,18 +41,6 @@ The task is to build a simple ToDo list app using Flutter. The app should allow 
 - Add due dates to tasks and display them in the list.
 
 - Include unit tests to ensure the core functionality works as expected.
-
-### Submission
-
-1. Create a branch in your forked repository for your work. You can name it `todo-app-test` or something similar.
-
-2. Commit your code and push it to your forked repository on GitHub.
-
-3. Create a pull request from your branch to the original repository (the one you forked from).
-
-4. In the pull request description, briefly explain your approach and any additional features you added.
-
-5. You can also include a screenshot or gif of your app in action.
 
 ### Evaluation
 
